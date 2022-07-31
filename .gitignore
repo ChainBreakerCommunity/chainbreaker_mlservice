@@ -1,3 +1,9 @@
+# Ignore directories.
+model/data/*
+model/metrics/img/*
+model/mlruns/*
+mlruns/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
